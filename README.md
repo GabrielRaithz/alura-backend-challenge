@@ -21,4 +21,6 @@ We have a 4 week time frame to develop the project. In the first 3, we will have
 
 Trello is a single-use tool for you to track the progress of your activities, but it will not be evaluated.
 
+Personal Trello: https://trello.com/c/sTZ3JikO/7-sobre-o-desafio
+
 Good project!
